@@ -1,0 +1,12 @@
+{
+  "name": "google-webfont-downloader",
+  "version": "1.0.0",
+  "description": "Script for downloading .woff2 files from google fonts in order to host them locally",
+  "main": "downloader.js",
+  "scripts": {
+    "start": "node downloader.js"
+  },
+  "author": "sand bird",
+  "license": "ISC",
+  "type": "module"
+}
